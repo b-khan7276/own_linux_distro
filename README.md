@@ -19,4 +19,9 @@ apt-cache search `app-name`
   ./msfinstall
   ```
   - [Burpsuite](https://portswigger.net/burp/communitydownload)
-  -  
+  - [Bettercap](https://portswigger.net/burp/communitydownload)
+  - [The Harvester](https://github.com/laramies/theHarvester)
+  - Nodejs ``` apt-get install nodejs```
+  - Npm ```apt-install npm```
+  - Python pip ```apt install python3-pip ```
+  - 
